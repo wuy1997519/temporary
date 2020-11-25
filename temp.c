@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main() {
-    printf("Example\n");
+    printf("Example branch\n");
 }
